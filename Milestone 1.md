@@ -57,4 +57,4 @@ Both team members will collaborate on model tuning, testing, and presentation pr
 
 ## Communication Strategy
 
-Project coordination and progress tracking will be managed through **GitHub** (Issues, Projects, and commit history). Regular communication will occur through **text** or **discord** for quick collaboration and discussion. Long discussion will be held in person or over **teams**.
+Project coordination and progress tracking will be managed through GitHub (Issues, Projects, and commit history). Regular communication will occur through text or discord for quick collaboration and discussion. Long discussion will be held in person or over teams.

@@ -29,7 +29,7 @@ A nightly job runs and:
 - generates features from the last 24h window
 - makes a prediction
 - runs maintenance actions only if required
-- saves a report in `data/processed/` or `reports/`
+- saves a report in a file
 
 ## Tech Exploration (Media Server Context)
 Usenet, Eweka/EZ News providers, HEVC/H.265, Overseerr, and reverse proxy tradeoffs (Nginx vs Apache).
